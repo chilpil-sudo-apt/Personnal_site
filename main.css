@@ -1,0 +1,34 @@
+body {
+  font-size: 16px ;
+  font-family: "times new roman", times, serif;
+  background-color: black;
+  color: white;
+  margin-left: 200px;
+  margin-right: 200px;
+  list-style-type: none;
+  }
+#mainContent{
+  border: 6px dashed white;
+  height: 900px; /* Example dimension */
+  width: 800px;  /* Example dimension */
+  float:left;
+  }
+.sidebar{
+  height: 500px;
+  width: 130px;
+  border: 10px groove #9e9e9e;
+  margin-left:820px;
+  margin-right:0px;
+  list-style-type: none;
+  }
+a:visited {
+  color: blue;
+}
+#id{
+  border: 6px outset white;
+  height: 260px; /* Example dimension */
+  width: 800px;  /* Example dimension */
+  float:left;
+  padding-top: 19px;
+  padding-left: 19px;
+  }
